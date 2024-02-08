@@ -23,7 +23,7 @@ const Projects = () => {
                 </div>
 
                 <div className="projects__card">
-                    <h3>PoliPicks NFT's</h3>
+                    <h3>PoliPics NFT's</h3>
                     <img src={compound} alt="Compound Landing Page" />
                     <p>
                         A trading card game of famous US Presidents
